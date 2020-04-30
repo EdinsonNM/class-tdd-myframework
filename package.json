@@ -1,0 +1,22 @@
+{
+  "name": "01-myframework",
+  "version": "1.0.0",
+  "description": "usando jest",
+  "main": "ejemplo.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdinsonNM/class-tdd-myframework.git"
+  },
+  "author": "Edinson Nuñez More",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdinsonNM/class-tdd-myframework/issues"
+  },
+  "homepage": "https://github.com/EdinsonNM/class-tdd-myframework#readme",
+  "devDependencies": {
+    "jest": "^25.5.2"
+  }
+}
