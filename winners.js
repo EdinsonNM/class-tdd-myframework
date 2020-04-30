@@ -12,3 +12,6 @@ function thumbWar(player1, player2) {
 	}
 	return player1Wins > player2Wins ? player1 : player2;
 }
+module.exports = {
+	thumbWar,
+};
